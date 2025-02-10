@@ -14,4 +14,4 @@
 1. Скачай этот репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/personal-bank-account-manager.git
+   git clone https://github.com/Nursultan34/python-projectd.git
